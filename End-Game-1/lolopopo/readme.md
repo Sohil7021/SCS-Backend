@@ -3,15 +3,15 @@
 
  The endgame part 1 start
  express generator -> make folder structure also write basic code in project
-     npm i express-generator -g
-     open cmd move to desktop
-     create new app :
-     express appname --view=ejs
+     1) npm i express-generator -g
+     2) open cmd move to desktop
+     3) create new app :
+     4) express appname --view=ejs
 
-     now use three command
-     cd appname
-     npm i
-     open it on vs code
+     5) now use three command
+     6) cd appname
+     7) npm i
+     8) open it on vs code
 
   > ***  run server just use npx nodemon is automatic take file and run on server ***
 
