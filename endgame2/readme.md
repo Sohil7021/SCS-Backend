@@ -1,12 +1,20 @@
-// flash message
-//intermediate mongodb
-	how can i perform a case-insensitive search in Mongoose?
-	how do i find document where an array filed contail all of a set of values?
-	how can i serach on certaion range of document means Date?
-	how can i filter for document based on the existance of a filed in Mongoose?
-	how can i filter document based on a specific on a filed's length in Mongoose?
-//authetication and authorization
-//choosing our project:
+# The EndGame Part-2
+
+> flash message
+
+
+> intermediate mongodb
+	1) how can i perform a case-insensitive search in Mongoose?
+	2) how do i find document where an array filed contail all of a set of values?
+	3) how can i serach on certaion range of document means Date?
+	4) how can i filter for document based on the existance of a filed in Mongoose?
+	5) how can i filter document based on a specific on a filed's length in Mongoose?
+
+
+> authetication and authorization
+
+
+> choosing our project:
 	pinterest
 	youtube music
 	instagram
