@@ -15,11 +15,11 @@
 
 
 > choosing our project:
-	pinterest
-	youtube music
-	instagram
-	google photos
-	flipkart
+	1) pinterest
+	2) youtube music
+	3) instagram
+	4) google photos
+	5) flipkart
 	
 	
 
